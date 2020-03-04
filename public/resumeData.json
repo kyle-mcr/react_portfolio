@@ -112,13 +112,13 @@
         "title":"Angles 5000",
         "category":"A freelance website I made for a hair salon using Angular.",
         "image":"angles.png",
-        "url":"https://www.angles5000.com/"
+        "url":"https://angles5000.com/"
       },
       {
         "title":"On The Spot Recipes",
         "category":"A website I created that generates dessert recipes based off of ingredients that you have. I used Angular, Express, and Node.",
         "image":"ots.png",
-        "url":"http://www.onthespotrecipes.com/"
+        "url":"https://onthespotrecipes.com/"
       },
       {
         "title":"Honorable Mention",
@@ -130,7 +130,7 @@
         "title":"Resume Website",
         "category":"A React based resume website.",
         "image":"resume-website.png",
-        "url":"http://www.kylemcreynolds-dev.com/"
+        "url":"https://kylemcreynolds-dev.com/"
       }
     ]
   },
