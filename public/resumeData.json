@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name":"Kyle McReynolds",
+    "occupation":"Web Developer",
+    "description":"I enjoy building everything from small business sites to rich interactive web apps",
+    "image":"profilepic.jpg",
+    "bio":"I am a full stack developer whose background emphasizes communication and interpersonal skills. I use online resources, teamwork and internal drive to accomplish tasks in the most efficient, clean manner available.",
+    "contactmessage":"If you are a business seeking a web presence or an employer looking to hire, please feel free to reach out!",
+    "email": "kylemcreynolds92@gmail.com",
+    "phone": "831-247-6678",
+    "address":{
+      "street":"Los Gatos CA, 95030",
+      "city":"San Francisco Bay Area",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.kylemcreynolds-dev.com",
+    "resumedownload":"https://drive.google.com/open?id=1y39DCK16RPTTmcXOjWyAHVuyhxDSrtOm",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kylemcreynolds1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/kmcreynoldz/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"mailto:kylemcreynolds92@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kyle-mcr",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below are SOME of the technologeis I use regularly:",
+    "education":[
+      {
+        "school":"Coding Dojo",
+        "degree":"Web Development",
+        "graduated":"December 2019",
+        "description":"Coding Dojo helped me to gain an unbelievable amount of knowledge in a shockingly short period of time. On average I coded in 14 hours per day during the week, and 4 hours on weekends every day for 15 weeks. Well over a thousand hours in addition to what I had learned previously."
+      },
+      {
+        "school":"Sonoma State University",
+        "degree":"B.S. Business - Marketing",
+        "graduated":"June 2015",
+        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing."
+      }
+    ],
+    "work":[
+      {
+        "company":"Trash Tracker Inc",
+        "title":"Full Stack Developer",
+        "years":"December 2019 - Present",
+        "description":"Created a Trash Tracker dashboard using Elasticsearch and Kibana that shows relevant information about the data including truck routes, histograms, bar graphs, pie charts and many more data visualizations. Built a customer facing UI using Reactivesearch/React that features Login/Dashboard/Devices/Accounts/Users tabs."
+      },
+      {
+        "company":"Coding Dojo",
+        "title":"Web Developer",
+        "years":"August 2019 - December 2019",
+        "description":"Coding Dojo teaches students three full stacks in 15 weeks. During each stack we would complete increasingly complex assignments moving from simple routing, through DOM manipulation, RESTful tasks and beyond. These 20 - 30 small projects would culminate in an exam. These exams require students to build a full-stack web-app based on a wire frame within 4.5 hous. My projects can all be viewed on my portfolio site, or GitHub. Finally, during my time at Coding Dojo I participated in 2 - 3 unique and increasingly challenging algorithms each day, learning how to manipulate different data structures including but not limited to binary search trees, singly and doubly linked lists, stacks, and tries."
+      },
+      {
+        "company":"Fetch Roboitcs",
+        "title":"Account Manager",
+        "years":"August 2018 - July 2019",
+        "description":"Parsed through a bucket of 1500+ untouched sales leads by proposing and implementing a new sales automation tool (SalesLoft), which lead to a 20% conversion rate. Hosted and delivered webinars and conference calls to B/C level executives and successfully converted 100+ new opportunities, totaling over $12 million dollars in potential revenue. Directly contacted the VP of automation at my prior company(Sherwin-Williams) and brought a $1.2 million dollar opportunity into fruition"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"65%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"Elasticsearch",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Angles 5000",
+        "category":"A freelance website I made for a hair salon using Angular.",
+        "image":"angles.png",
+        "url":"https://www.angles5000.com/"
+      },
+      {
+        "title":"On The Spot Recipes",
+        "category":"A website I created that generates dessert recipes based off of ingredients that you have. I used Angular, Express, and Node.",
+        "image":"ots.png",
+        "url":"http://www.onthespotrecipes.com/"
+      },
+      {
+        "title":"Honorable Mention",
+        "category":"(No longer Deployed) Website I built that can store recommended places to visit and display them on a map. I used Python and Django and the mapbox API",
+        "image":"hm.png",
+        "url":"https://github.com/kyle-mcr/honorable_mention"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website.",
+        "image":"resume-website.png",
+        "url":"http://www.kylemcreynolds-dev.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Kyle was very easy to communicate with and was able to execute exactly what we were looking for in our new website. In the first month we had almost one thousand unique vistiors to our new website and it has drawn in a ton of new business. Thanks Kyle! ",
+        "user":"Owner of Angles5000"
+      }
+    ]
+  }
+}
