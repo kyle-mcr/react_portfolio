@@ -52,7 +52,7 @@
         "school":"Coding Dojo",
         "degree":"Certificate - Full Stack/Web Development",
         "graduated":"December 2019",
-        "description":"Coding Dojo is an immersive bootcamp where students are taught three full stacks in 16 weeks. I coded 12-14 hours per day totaling well over 1000 hours with a focus on Python, Javascript, & Java. Did a deep dive into the Mean stack, Python/Django stack, and Java/Spring Boot stack. Through hand-on projects, I learned the agile development lifecycle, created REST APIs, an leveraged cloud services like AWS & Github."
+        "description":"Coding Dojo is an immersive bootcamp where students are taught three full stacks in 16 weeks. I coded 12-14 hours per day totaling well over 1000 hours with a focus on Python, Javascript, & Java. Did a deep dive into the Mean stack, Python/Django stack, and Java/Spring Boot stack. Through hand-on projects, I learned the agile development lifecycle, created REST APIs, and leveraged cloud services like AWS & Github."
       },
       {
         "school":"Sonoma State University",
@@ -63,10 +63,16 @@
     ],
     "work":[
       {
+        "company":"developerDB",
+        "title":"Front End Developer",
+        "years":"August 2020 - Present",
+        "description":"Designing and prototyping the front end of the product website. Writing reusable components using Angular, HTML, CSS, TypeScript, and Angular Material for the product website Using HTML, CSS, JavaScript, PHP, and Material Design Bootstrap to implement the company website. Testing and Maintaining the front end part of the marketing and product website."
+      },
+      {
         "company":"Trash Tracker Inc",
-        "title":"Full Stack Developer",
-        "years":"December 2019 - Present",
-        "description":"Created a Trash Tracker dashboard using Elasticsearch and Kibana that shows relevant information about the data including truck routes, histograms, bar graphs, pie charts and many more data visualizations. Built a customer facing UI using Reactivesearch/React that features Login/Dashboard/Devices/Accounts/Users tabs."
+        "title":"Front End Developer",
+        "years":"December 2019 - March 2020",
+        "description":"Created a proof of concept to share with investors by building a customer facing UI using React leading to additional investment opportunities within a 1 month debut. Created Elasticsearch capabilities by converting 65,000 MySQL data points into a non-relational format and manipulated the data with Pandas in order to create various data visualizations with Kibana & React. Automated deployment of the AWS web server by creating a bash script that runs when the instance boots up."
       },
       {
         "company":"Coding Dojo",
