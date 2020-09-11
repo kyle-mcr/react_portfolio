@@ -42,17 +42,23 @@
   "resume":{
     "skillmessage":"Below are SOME of the technologeis I use regularly:",
     "education":[
+       {
+        "school":"Harvard University Extension",
+        "degree":"Certificate - Web Programming w/ Python & Javascript",
+        "graduated":"June 2020",
+        "description":"Deep dive into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, I learned to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku."
+      },
       {
         "school":"Coding Dojo",
-        "degree":"Web Development",
+        "degree":"Certificate - Full Stack/Web Development",
         "graduated":"December 2019",
-        "description":"Coding Dojo helped me to gain an unbelievable amount of knowledge in a shockingly short period of time. On average I coded in 14 hours per day during the week, and 4 hours on weekends every day for 15 weeks. Well over a thousand hours in addition to what I had learned previously."
+        "description":"Coding Dojo is an immersive bootcamp where students are taught three full stacks in 16 weeks. I coded 12-14 hours per day totaling well over 1000 hours with a focus on Python, Javascript, & Java. Did a deep dive into the Mean stack, Python/Django stack, and Java/Spring Boot stack. Through hand-on projects, I learned the agile development lifecycle, created REST APIs, an leveraged cloud services like AWS & Github."
       },
       {
         "school":"Sonoma State University",
         "degree":"B.S. Business - Marketing",
         "graduated":"June 2015",
-        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing."
+        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing. Capstone peoject: 'The importance of having a professional looking website where potential customers can get in touch with you 24/7'."
       }
     ],
     "work":[
