@@ -63,9 +63,15 @@
     ],
     "work":[
       {
+        "company":"Semtech",
+        "title":"Product Marketing",
+        "years":"October 2020 - Present",
+        "description":"Worked under the Wireless and Sensing Business Unit to facilitate various marketing and sales enablement activities. Analyzed GPS Market research across multiple paid sources and presented findings to management to better position our LoRa based products for success, which lead to a more informed and strategic new product launch. Analyzed the sales pipeline and built in-depth, interactive dashboards that helped identify areas of improvement and teams that needed additional resources. Created a product roadmap and end-to-end user guide for our LoRa Gateways and Transceivers group which helped convey our message in sales presentations and better equip customers for success."
+      },
+      {
         "company":"developerDB",
         "title":"Front End Developer",
-        "years":"August 2020 - Present",
+        "years":"July 2020 - November 2020",
         "description":"Designing and prototyping the front end of the product website. Writing reusable components using Angular, HTML, CSS, TypeScript, and Angular Material for the product website Using HTML, CSS, JavaScript, PHP, and Material Design Bootstrap to implement the company website. Testing and Maintaining the front end part of the marketing and product website."
       },
       {
@@ -101,7 +107,11 @@
         "level":"70%"
       },
       {
-        "name":"HTML5/CSS",
+        "name":"HTML5/CSS3",
+        "level":"100%"
+      },
+      {
+        "name":"Javascript",
         "level":"90%"
       },
       {
@@ -113,6 +123,10 @@
         "level":"70%"
       },
       {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
         "name":"MongoDB",
         "level":"80%"
       }
@@ -120,6 +134,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"E-Commerce Website",
+        "category":"An E-Commerce website",
+        "image":"uc.png",
+        "url":"https://www.ultimatecards5.com"
+      },
       {
         "title":"Angles 5000",
         "category":"A freelance website I made for a hair salon using Angular.",
@@ -133,16 +153,34 @@
         "url":"https://onthespotrecipes.com/"
       },
       {
-        "title":"Honorable Mention",
-        "category":"(No longer Deployed) Website I built that can store recommended places to visit and display them on a map. I used Python and Django and the mapbox API",
-        "image":"hm.png",
-        "url":"https://github.com/kyle-mcr/honorable_mention"
-      },
-      {
         "title":"Resume Website",
         "category":"A React based resume website.",
         "image":"resume-website.png",
         "url":"https://kylemcreynolds-dev.com/"
+      },
+      {
+        "title":"Mortgage Calculator",
+        "category":"An angular Mortgage calculator website.",
+        "image":"mort.png",
+        "url":"https://youtu.be/PrYA_ONdxsA"
+      },
+      {
+        "title":"Flack",
+        "category":"A simplified slack clone demonstratig sockets",
+        "image":"flack.png",
+        "url":"https://www.youtube.com/watch?v=dQTzifVh-jA"
+      },
+      {
+        "title":"The Plant Exchange",
+        "category":"Craigslist but for plants!",
+        "image":"plants.png",
+        "url":"https://www.youtube.com/watch?v=kynkALOMsgo"
+      },
+      {
+        "title":"Honorable Mention",
+        "category":"(No longer Deployed) Website I built that can store recommended places to visit and display them on a map. I used Python and Django and the mapbox API",
+        "image":"hm.png",
+        "url":"https://github.com/kyle-mcr/honorable_mention"
       }
     ]
   },
