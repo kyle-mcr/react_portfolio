@@ -140,47 +140,47 @@
         "image":"uc.png",
         "url":"https://www.ultimatecards5.com"
       },
+
       {
         "title":"Angles 5000",
         "category":"A freelance website I made for a hair salon using Angular.",
         "image":"angles.png",
         "url":"https://angles5000.com/"
       },
+
       {
         "title":"On The Spot Recipes",
         "category":"A website I created that generates dessert recipes based off of ingredients that you have. I used Angular, Express, and Node.",
         "image":"ots.png",
         "url":"https://onthespotrecipes.com/"
       },
+
       {
         "title":"Resume Website",
         "category":"A React based resume website.",
         "image":"resume-website.png",
         "url":"https://kylemcreynolds-dev.com/"
       },
+
       {
         "title":"Mortgage Calculator",
         "category":"An angular Mortgage calculator website.",
         "image":"mort.png",
         "url":"https://youtu.be/PrYA_ONdxsA"
       },
+
       {
         "title":"Flack",
         "category":"A simplified slack clone demonstratig sockets",
         "image":"flack.png",
         "url":"https://www.youtube.com/watch?v=dQTzifVh-jA"
       },
+
       {
         "title":"The Plant Exchange",
         "category":"Craigslist but for plants!",
         "image":"plants.png",
         "url":"https://www.youtube.com/watch?v=kynkALOMsgo"
-      },
-      {
-        "title":"Honorable Mention",
-        "category":"(No longer Deployed) Website I built that can store recommended places to visit and display them on a map. I used Python and Django and the mapbox API",
-        "image":"hm.png",
-        "url":"https://github.com/kyle-mcr/honorable_mention"
       }
     ]
   },
