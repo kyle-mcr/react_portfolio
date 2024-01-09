@@ -40,10 +40,10 @@
     ]
   },
   "resume":{
-    "skillmessage":"Below are SOME of the technologeis I use regularly:",
+    "skillmessage":"Below are SOME of the technologies I use regularly:",
     "education":[
        {
-        "school":"Harvard University Extension",
+        "school":"Harvard University Extension (EdX)",
         "degree":"Certificate - Web Programming w/ Python & Javascript",
         "graduated":"June 2020",
         "description":"Deep dive into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, I learned to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku."
@@ -58,10 +58,22 @@
         "school":"Sonoma State University",
         "degree":"B.S. Business - Marketing",
         "graduated":"June 2015",
-        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing. Capstone peoject: 'The importance of having a professional looking website where potential customers can get in touch with you 24/7'."
+        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing. Capstone project: 'The importance of having a professional looking website where potential customers can get in touch with you 24/7'."
       }
     ],
     "work":[
+        {
+        "company":"Badger Meter",
+        "title":"Software Engineer",
+        "years":"December 2021 - Present",
+        "description":"Member of the Analytics team which designs and builds tools to enable customers to easily explore and visualize data that comes from their water meters. Contributred to the full cylce of multiple projects using Agile development/SCRUM practices including(not limited to): Customizable Dashboards, Pre-Fabricated dashboards (At-A-Glance), and a tool for customers to track custom events that occur on their water meters. Full-stack development using Python, JavaScript(React/Redux), ElasticSearch, and HTML/CSS(AntDesign, Highcharts, etc)."
+      },
+        {
+        "company":"LinkTrust",
+        "title":"Customer Success Engineer",
+        "years":"April 2021 - December 2021",
+        "description":"Provided new customers with account setup, implementation, and training via 8-10 hours of onboarding time. Facilitated the integration of the LinkTrust system inside of customer’s CRMs, shopping carts, and stores via custom wordpress/shopify plugins or AWS lambda functions. Successfully onboarded a dozen new professional/enterprise customers."
+      },
       {
         "company":"Semtech",
         "title":"Product Marketing",
@@ -95,23 +107,19 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"70%"
-      },
-      {
-        "name":"Python",
-        "level":"75%"
-      },
-      {
-        "name":"React",
-        "level":"70%"
-      },
-      {
         "name":"HTML5/CSS3",
         "level":"100%"
       },
       {
+        "name":"React",
+        "level":"90%"
+      },
+      {
         "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
         "level":"90%"
       },
       {
@@ -119,16 +127,12 @@
         "level":"80%"
       },
       {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
         "name":"Elasticsearch",
         "level":"70%"
-      },
-      {
-        "name":"SQL",
-        "level":"80%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
